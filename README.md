@@ -34,6 +34,7 @@ The dashboard analyzes approximately **1.25M insurance claim records** and provi
 
 # 🛠️ Tools & Technologies
 
+- MySQL
 - Power BI
 - Power Query
 - DAX
