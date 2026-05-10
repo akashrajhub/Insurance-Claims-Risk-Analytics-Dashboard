@@ -1,0 +1,4 @@
+policy_id,policy_type,premium_amount,sum_insured
+1,Basic,8000.0,200000.0
+2,Standard,15000.0,500000.0
+3,Premium,30000.0,1500000.0
