@@ -200,19 +200,20 @@ To improve dashboard performance and scalability:
 # 📷 Dashboard Preview
 
 ## Overview Dashboard
-<img width="1494" height="853" alt="Screenshot 2026-05-10 121634" src="https://github.com/user-attachments/assets/c2466064-31d0-47bd-acd2-e581ce9a79ce" />
+<img width="1438" height="811" alt="Overview" src="https://github.com/user-attachments/assets/e86b9751-62fe-45f2-a6ff-e72bdf5548a5" />
+
 
 
 ## Financial Analysis
-<img width="1488" height="851" alt="Screenshot 2026-05-10 121725" src="https://github.com/user-attachments/assets/32783310-ddfd-4cfe-987f-44679dd7d8d7" />
+<img width="1440" height="811" alt="Financial" src="https://github.com/user-attachments/assets/73ebee3c-b211-4761-bd55-bb7ffc8da9be" />
 
 
 ## Risk Analysis
-<img width="1486" height="854" alt="Screenshot 2026-05-10 121751" src="https://github.com/user-attachments/assets/6b012371-7aa7-441e-86fe-a366f1b2754b" />
+<img width="1446" height="811" alt="Risk" src="https://github.com/user-attachments/assets/46742c0c-c352-4567-a992-de33069d0652" />
 
 
 ## Deep Dive Analysis
-<img width="1494" height="852" alt="Screenshot 2026-05-10 121829" src="https://github.com/user-attachments/assets/0f086185-e75f-40f4-a735-f6bc581b3fd4" />
+<img width="1446" height="813" alt="Deep" src="https://github.com/user-attachments/assets/419e0949-409e-487d-93ee-a2dc1b5b5228" />
 
 
 ---
